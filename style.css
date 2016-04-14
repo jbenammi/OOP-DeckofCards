@@ -1,0 +1,167 @@
+* {
+	margin: 0%;
+	padding: 0px;
+}
+
+div {
+	width: 71px;
+	height: 96px;
+	display: inline-block;
+	vertical-align: top;
+}
+#spade1 {
+	background: url("images/s1.png");
+}
+#spade2 {
+	background: url("images/s2.png");
+}
+#spade3 {
+	background: url("images/s3.png");
+}
+#spade4 {
+	background: url("images/s4.png");
+}
+#spade5 {
+	background: url("images/s5.png");
+}
+#spade6 {
+	background: url("images/s6.png");
+}
+#spade7 {
+	background: url("images/s7.png");
+}
+#spade8 {
+	background: url("images/s8.png");
+}
+#spade9 {
+	background: url("images/s9.png");
+}
+#spade10 {
+	background: url("images/s10.png");
+}
+#spade11 {
+	background: url("images/sj.png");
+}
+#spade12 {
+	background: url("images/sq.png");
+}
+#spade13 {
+	background: url("images/sk.png");
+}
+#heart1 {
+	background: url("images/h1.png");
+}
+#heart2 {
+	background: url("images/h2.png");
+}
+#heart3 {
+	background: url("images/h3.png");
+}
+#heart4 {
+	background: url("images/h4.png");
+}
+#heart5 {
+	background: url("images/h5.png");
+}
+#heart6 {
+	background: url("images/h6.png");
+}
+#heart7 {
+	background: url("images/h7.png");
+}
+#heart8 {
+	background: url("images/h8.png");
+}
+#heart9 {
+	background: url("images/h9.png");
+}
+#heart10 {
+	background: url("images/h10.png");
+}
+#heart11 {
+	background: url("images/hj.png");
+}
+#heart12 {
+	background: url("images/hq.png");
+}
+#heart13 {
+	background: url("images/hk.png");
+}
+#club1 {
+	background: url("images/c1.png");
+}
+#club2 {
+	background: url("images/c2.png");
+}
+#club3 {
+	background: url("images/c3.png");
+}
+#club4 {
+	background: url("images/c4.png");
+}
+#club5 {
+	background: url("images/c5.png");
+}
+#club6 {
+	background: url("images/c6.png");
+}
+#club7 {
+	background: url("images/c7.png");
+}
+#club8 {
+	background: url("images/c8.png");
+}
+#club9 {
+	background: url("images/c9.png");
+}
+#club10 {
+	background: url("images/c10.png");
+}
+#club11 {
+	background: url("images/cj.png");
+}
+#club12 {
+	background: url("images/cq.png");
+}
+#club13 {
+	background: url("images/ck.png");
+}
+#diamond1 {
+	background: url("images/d1.png");
+}
+#diamond2 {
+	background: url("images/d2.png");
+}
+#diamond3 {
+	background: url("images/d3.png");
+}
+#diamond4 {
+	background: url("images/d4.png");
+}
+#diamond5 {
+	background: url("images/d5.png");
+}
+#diamond6 {
+	background: url("images/d6.png");
+}
+#diamond7 {
+	background: url("images/d7.png");
+}
+#diamond8 {
+	background: url("images/d8.png");
+}
+#diamond9 {
+	background: url("images/d9.png");
+}
+#diamond10 {
+	background: url("images/d10.png");
+}
+#diamond11 {
+	background: url("images/dj.png");
+}
+#diamond12 {
+	background: url("images/dq.png");
+}
+#diamond13 {
+	background: url("images/dk.png");
+}
